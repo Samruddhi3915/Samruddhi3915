@@ -3,7 +3,7 @@
 </div>  
  <br/>
 
-# <div align="center">Hey there, I'm Samruddhi 👨‍💻 🚀</div>  
+# <div align="center">Hey there, I'm Samruddhi 👩🏻‍💻</div>  
   <br/>
   
   <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 - 🔭 &nbsp; I’m passionate to learn new technologies...
-- 🎓 &nbsp; Studying Computer Science
+- 🎓 &nbsp; Studying Computer Science.
 - 🖇️ &nbsp; I belive, Persistence is the key that unlocks potential !
 
   
