@@ -3,16 +3,13 @@
 </div>  
  <br/>
 
-# <div align="center">I'm Pulkit Gupta, a full-stack freelance developer 👨‍💻 🚀</div>  
+# <div align="center">Hey there,I'm Samruddhi 👨‍💻 🚀</div>  
   <br/>
 
-- 🔭 I’m currently working on Skills  
-  
+- 🔭 I’m passionate to learn new technologies
+- 🎓 &nbsp; Studying Computer Science
+- 🖇️ &nbsp; I belive, Persistence is the key that unlocks potential !
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I love eating food than cooking 😋  
   
 
 <br/>  
