@@ -1,5 +1,13 @@
-<div align="center">
-<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
+<div align="center" style="width: 45 px; height:50%" >
+ 
+<!--  ![undraw_programmer_re_owql](https://user-images.githubusercontent.com/84762358/208119303-6f3cbe90-80ce-4118-b0f4-42ba76af6281.svg) -->
+
+ <img src="https://user-images.githubusercontent.com/84762358/208119303-6f3cbe90-80ce-4118-b0f4-42ba76af6281.svg" align="center" style="width: 40%; height:50% " />
+ 
+ 
+ 
+ 
+<!-- <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " /> -->
 </div>  
  <br/>
 
@@ -7,7 +15,7 @@
   <br/>
   
   <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 - 🔭 &nbsp; I’m passionate to learn new technologies...
