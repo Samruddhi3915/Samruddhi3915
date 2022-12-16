@@ -5,8 +5,12 @@
 
 # <div align="center">Hey there,I'm Samruddhi 👨‍💻 🚀</div>  
   <br/>
+  
+  <p align="center">
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;CPP%20|%Java%20|%20SQL%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
-- 🔭 I’m passionate to learn new technologies
+- 🔭 I’m passionate to learn new technologies...
 - 🎓 &nbsp; Studying Computer Science
 - 🖇️ &nbsp; I belive, Persistence is the key that unlocks potential !
 
@@ -86,18 +90,4 @@
 <br/>
 <br/>  
 
-## Github Stats 📉
 
-<div align="center" style="display: flex;justify-content: center;align-items: center; flex-direction:column;width:100%">
-<img src="https://github-readme-stats.vercel.app/api?username=pulkit-30&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit-30&hide_border=true&layout=compact" align="left" />  
-</div>
-<br/>  
-<br/>  
-
-------------
-Credit: [pulkit-30](https://github.com/pulkit-30) 
-
-Last Edited on: 03/08/2021
