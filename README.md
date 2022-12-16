@@ -7,7 +7,7 @@
   <br/>
   
   <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;CPP%20|%Java%20|%20SQL%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 - 🔭 I’m passionate to learn new technologies...
@@ -20,56 +20,27 @@
 
 
 
-## My Skill Set 👩‍💻
-
-<table><tr><td valign="top" width="33%">
 
 
+<h3>🛠 Tech Stack</h3>
 
-### Frontend  
-   
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
+- 💻 &nbsp;  MERN Stack |HTML | CSS | JavaScript 
+- 🌐 &nbsp; Android 
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Android Studio | Visual Studio code | Eclipse | Git | PyCharm
 
 
+<br>
+<br>
 
-### Backend
-   
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-</div>
+<!-- ![Samruddhi's Github Stats](https://github-readme-stats.vercel.app/api?username=Samruddhi3915&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Samruddhi's Github Stats">
 
-</td><td valign="top" width="33%">
+</br>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
-### DevOps  
-   
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-</div>
-</td></tr></table>  
-<br/>  
-<br/>
-<div align="center">
-<img src="https://bloggingcoder.com/images/categories/mern.jpg" align="center" style="width: 100%; height:70% " />
-</div>  
-<br/>  
-<br/>
 
 ## Connect with me 🚀
 
@@ -80,12 +51,7 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/pulkit-gupta-707459214" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100013565554132" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/i_pulkit_gupta/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+ 
 </div>  
 <br/>
 <br/>  
