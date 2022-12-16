@@ -3,14 +3,14 @@
 </div>  
  <br/>
 
-# <div align="center">Hey there,I'm Samruddhi 👨‍💻 🚀</div>  
+# <div align="center">Hey there, I'm Samruddhi 👨‍💻 🚀</div>  
   <br/>
   
   <p align="center">
   <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-- 🔭 I’m passionate to learn new technologies...
+- 🔭 &nbsp; I’m passionate to learn new technologies...
 - 🎓 &nbsp; Studying Computer Science
 - 🖇️ &nbsp; I belive, Persistence is the key that unlocks potential !
 
