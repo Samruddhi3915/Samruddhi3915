@@ -20,7 +20,7 @@
 
 - 🔭 &nbsp; I’m passionate to learn new technologies...
 - 🎓 &nbsp; Studying Computer Science.
-- 🖇️ &nbsp; I belive, Persistence is the key that unlocks potential !
+- 🖇️ &nbsp; I believe, Persistence is the key that unlocks potential !
 
   
 
