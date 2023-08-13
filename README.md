@@ -12,6 +12,7 @@
  <br/>
 
 # <div align="center">Hey there, I'm Samruddhi 👩🏻‍💻</div>  
+<div align="center">Hey there, I'm Samruddhi 👩🏻‍💻</div>  
   <br/>
   
   <p align="center">
