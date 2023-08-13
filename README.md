@@ -11,7 +11,7 @@
 </div>  
  <br/>
 
-# <div align="center">Hey there, I'm Samruddhi (Former intern at Barclays)👩🏻‍💻</div>  
+# <div align="center">Hey there, I'm Samruddhi 👩🏻‍💻</div>  
   <br/>
   
   <p align="center">
